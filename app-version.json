@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.10",
-  "min_version": "1.0.9",
+  "latest_version": "1.0.11",
+  "min_version": "1.0.10",
   "update_url": "https://play.google.com/store/apps/details?id=com.myyanitech.birthrem",
-  "release_notes": "Initial release"
+  "release_notes": "Initial release (fixing Notification sys)"
 }
